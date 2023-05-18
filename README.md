@@ -1,2 +1,3 @@
 # image-classifier
 This was my final project in Artificial Inteligence. The Project4.ipynb is a google colab file and can be opened using google colab. There was a few seperate files for the interface, but I did not work on those files and no longer have access to them. I did make this neural network and you can test it out by running it on google colab. If you want to test different images you have to change the img_path near the bottom before running it.
+This program trains a neural network with hundreds of images of different types of weather. It can then be given an image and it will tell you what kind of wheather is in the image. We decided to save a sate of the neural network after we trained it and used that in the interface to make loading times alot shorter.
